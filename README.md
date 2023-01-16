@@ -11,4 +11,5 @@ The application also provides a graphical user interface, which allows the user 
 To use the application, run the program and use the GUI to input the necessary information such as loan amount, interest rate, and repayment period. Then, click on the appropriate button to calculate and compare the different types of credit.
 
 
-![treeman1](https://user-images.githubusercontent.com/117061955/212667666-09ffb771-fa60-48a5-a4c6-20a3832e30fe.png)
+
+![credit-GUI](https://user-images.githubusercontent.com/117061955/212667666-09ffb771-fa60-48a5-a4c6-20a3832e30fe.png)
